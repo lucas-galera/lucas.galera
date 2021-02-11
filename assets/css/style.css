@@ -247,7 +247,7 @@ header nav li:last-child{
 
 .mes-projets .grid a{
 	padding: 20px;
-	height: 400px;
+	height: 600px;
 	border-radius: 3px;
 
 	background-clip: content-box;
@@ -285,7 +285,7 @@ header nav li:last-child{
 ----------------------*/
 
 .Services{
-	background-color: #f7f7f7;
+	background-color: #eeeaea;
 }
 
 .Services .grid li{
@@ -308,6 +308,7 @@ header nav li:last-child{
 
 .Services .grid li p{
     margin: 0;
+	max-width: 100%;
 }
 
 @media (max-width: 1000px){
